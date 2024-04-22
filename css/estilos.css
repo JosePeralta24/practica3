@@ -1,0 +1,25 @@
+.divPadre {
+    display: grid;
+    border-top: solid 10px;
+
+}
+
+.divPadre2 {
+    background-color: bisque;
+    grid-template-columns: 20% 20% 20% 20%;
+}
+
+
+.div1 {
+    display: grid;
+    background-color: white;
+    grid-template-rows: 25px;
+    grid-column-start: 1;
+    grid-column-end: 6;
+    
+}
+
+.div2 {
+    
+}
+
